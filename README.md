@@ -1,2 +1,3 @@
 # Principles of Modeling and Simulation
  
+This course covers applications of differential equations in modeling and simulation. Students use mathematical models for continuous and discrete simulation, and develop applications for complex systems across a variety of domains. Students learn how to represent a system by a model and then execute the model to generate and statistically analyze data. The laboratory reinforces and expands learning of principles introduced in the lecture. Hands-on activities focus on writing code that implements differential equation based modeling algorithms and visual simulations. Prerequisite: CST-201, CST-215, MAT-264.
