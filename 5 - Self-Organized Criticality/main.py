@@ -1,3 +1,10 @@
+"""
+Project 5: Self-Organized Criticality
+Ryan Scott & Diego Guerra
+CST-305
+Dr. Ricardo Citro
+"""
+
 import numpy as np
 import matplotlib.pyplot as plt
 
