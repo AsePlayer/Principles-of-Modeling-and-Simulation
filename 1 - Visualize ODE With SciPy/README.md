@@ -1,5 +1,4 @@
 # CST-305 Project 1: Visualize ODE With SciPy
-### [View Data & Report](https://github.com/AsePlayer/Principles-of-Modeling-and-Simulation/blob/f03f1bf89f0b4d372035ecacf4d00bbba97dbbc2/1%20-%20Visualize%20ODE%20With%20SciPy/Project%201%20%E2%80%93%20Visualize%20ODE%20With%20SciPy%20Document.pdf)
 
 # Setup
 * Download version 3.8.2+ of Python 
@@ -70,6 +69,7 @@ The following graph demonstrates the behavior of the network's data rate over ti
 
 - The network data rate follows a predictable decay pattern over time, as modeled by the derived ODE.
 - The use of numerical methods ensures accurate and efficient computation of the solution, making this approach applicable to real-world network performance analysis.
+- [Full Report](https://github.com/AsePlayer/Principles-of-Modeling-and-Simulation/blob/f03f1bf89f0b4d372035ecacf4d00bbba97dbbc2/1%20-%20Visualize%20ODE%20With%20SciPy/Project%201%20%E2%80%93%20Visualize%20ODE%20With%20SciPy%20Document.pdf)
 
 ---
 
