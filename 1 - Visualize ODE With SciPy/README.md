@@ -75,7 +75,12 @@ The following graph demonstrates the behavior of the network's data rate over ti
 
 ## How to Run the Project
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-repo/network-data-rate-visualization.git
-   cd network-data-rate-visualization
+* Download version 3.8.2+ of Python 
+* Install pip
+* Create a new project. Within the terminal, use pip to install the libraries below:
+
+* `pip install numpy`, `pip install matplotlib`, `pip install scipy`
+
+* Download the code and locate the main.py file's directory
+* In the terminal, change the directory to the location of main.py
+* Run main.py
